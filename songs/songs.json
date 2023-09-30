@@ -1,0 +1,62 @@
+{
+    "Dogshit Songs": {
+        "path": "Dogshit Songs",
+        "cover": "Dogshit Songs/cover.jpg",
+        "songs": {
+            "Domestic Violence": {
+                "path": "Dogshit Songs/domestic violence.flac"
+            },
+            "Hotdog Water Ice Cubes": {
+                "path": "Dogshit Songs/hotdog water ice cubes.flac"
+            },
+            "Intoxication Nation": {
+                "path": "Dogshit Songs/intoxication nation.flac"
+            },
+            "Lawn Mowing Dogshit": {
+                "path": "Dogshit Songs/lawn mowing dogshit.flac"
+            }
+        }
+    },
+    "Finding Balls": {
+        "path": "Finding Balls",
+        "cover": "Finding Balls/cover.png",
+        "songs": {
+            "God please give me my balls back": {
+                "path": "Finding Balls/God please give me my balls back.flac"
+            },
+            "HDMI Cable Lettuce": {
+                "path": "Finding Balls/hdmi cable lettuce.flac"
+            },
+            "I like to HDMI cord": {
+                "path": "Finding Balls/i like to hdmi cord.flac"
+            },
+            "Lowkey insane hdmi cord hdmi cord hdmic ord hdmi ccord hdm cord": {
+                "path": "Finding Balls/lowkey insane hdmi cord hdmi cord hdmic ord hdmi ccord hdm cord.flac"
+            },
+            "My fridge is pretty hot": {
+                "path": "Finding Balls/my fridge is pretty hot.flac"
+            },
+            "The horse is here": {
+                "path": "Finding Balls/the horse is here.flac"
+            },
+            "They took my balls and my children": {
+                "path": "Finding Balls/they took my balls and my children.flac"
+            }
+        }
+    },
+    "Yay Laler": {
+        "path": "Yay Laler",
+        "cover": "Yay Laler/cover.jpg",
+        "songs": {
+            "Drum Club": {
+                "path": "Yay Laler/drum club.flac"
+            },
+            "Something Better": {
+                "path": "Yay Laler/something better.flac"
+            },
+            "Won't Stop": {
+                "path": "Yay Laler/wont stop.flac"
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slooshy's radio</title>
+    <script src="index.js"></script>
+    <link href="./style.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="horizontal-center">
+        <h1>Slooshy's official radio</h1>
+    </div>
+    <div>
+        <div class="horizontal-center">
+            <div>
+                <!-- Metadata -->
+                <div class="flexbox-two-columns">
+                    <!-- Album Cover -->
+                    <div class="line">
+                        <div class="column">
+                            <input type="range" id="volume" name="slider" orient="vertical">
+                            <i data-lucide="volume-2"></i>
+                        </div>
+
+                        <img id="albumCover" src="./songs/Finding balls/cover.png" width="200" height="200"></img>
+                    </div>
+
+                    <!-- Text stuff -->
+                    <div>
+                        <div class="line">
+                            <i data-lucide="music"></i>
+                            <p id="songName">Press play</p>
+                        </div>
+
+
+                        <div class="line">
+                            <i data-lucide="disc"></i>
+                            <p id="albumName">Press play</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="horizontal-center">
+            <div class="line">
+                <button onclick="goBack()"><i data-lucide="skip-back"></i></button>
+                <button onclick="playButtonFunc()"><i class="play" data-lucide="play"></i><i class="pause hidden" data-lucide="pause"></i></button>
+                <button onclick="skipSong()"><i data-lucide="skip-forward"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>

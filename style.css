@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+
+    background: linear-gradient(250deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 41%, rgb(28, 107, 122) 100%);
+    color: white;
+
+    font-family: 'Rubik', sans-serif;
+}
+
+button {
+    border: 2px solid rgb(180, 180, 180);
+    border-radius: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #cacaca;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.horizontal-center {
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox-two-columns {
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+}
+
+#albumCover {
+    border-radius: 10px;
+}
+
+.hidden {
+    display: none;
+}
