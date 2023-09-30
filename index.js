@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
     volumeSlider.addEventListener("input", (e) => { audioPlayer.volume = e.target.value/100; })
     playButton = document.getElementById("playButton");
     
-    fetch(`${document.location.origin}/songs/songs.json`)
+    fetch(`${document.location.origin + document.location.pathname}/songs/songs.json`)
         .then((response) => response.json())
         .then((songs) => {
             if(songs == null) console.error("Songs.json not found in songs/ folder.")
