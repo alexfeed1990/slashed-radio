@@ -8,7 +8,6 @@ let albumNameElement;
 let volumeSlider;
 let playButton;
 let pause = true;
-let hostingURL = "https://raw.githubusercontent.com/alexfeed1990/slashed-radio/main"; // By default, this is document.location.origin + document.location.pathname
 
 function playAudio(obj, add) {
     audioPlayer = new Audio(obj.path);
@@ -95,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
     volumeSlider.addEventListener("input", (e) => { audioPlayer.volume = e.target.value/100; })
     playButton = document.getElementById("playButton");
     
-    fetch(`${hostingURL}/songs/songs.json`)
+    fetch(`${document.location.origin + document.location.pathname}/songs/songs.json`)
         .then((response) => response.json())
         .then((songs) => {
             if(songs == null) console.error("Songs.json not found in songs/ folder.")

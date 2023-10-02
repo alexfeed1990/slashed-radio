@@ -4,16 +4,16 @@
         "cover": "Dogshit Songs/cover.jpg",
         "songs": {
             "Domestic Violence": {
-                "path": "Dogshit Songs/domestic violence.flac"
+                "path": "Dogshit Songs/domestic violence.mp3"
             },
             "Hotdog Water Ice Cubes": {
-                "path": "Dogshit Songs/hotdog water ice cubes.flac"
+                "path": "Dogshit Songs/hotdog water ice cubes.mp3"
             },
             "Intoxication Nation": {
-                "path": "Dogshit Songs/intoxication nation.flac"
+                "path": "Dogshit Songs/intoxication nation.mp3"
             },
             "Lawn Mowing Dogshit": {
-                "path": "Dogshit Songs/lawn mowing dogshit.flac"
+                "path": "Dogshit Songs/lawn mowing dogshit.mp3"
             }
         }
     },
@@ -22,25 +22,25 @@
         "cover": "Finding Balls/cover.png",
         "songs": {
             "God please give me my balls back": {
-                "path": "Finding Balls/God please give me my balls back.flac"
+                "path": "Finding Balls/God please give me my balls back.mp3"
             },
             "HDMI Cable Lettuce": {
-                "path": "Finding Balls/hdmi cable lettuce.flac"
+                "path": "Finding Balls/hdmi cable lettuce.mp3"
             },
             "I like to HDMI cord": {
-                "path": "Finding Balls/i like to hdmi cord.flac"
+                "path": "Finding Balls/i like to hdmi cord.mp3"
             },
             "Lowkey insane hdmi cord hdmi cord hdmic ord hdmi ccord hdm cord": {
-                "path": "Finding Balls/lowkey insane hdmi cord hdmi cord hdmic ord hdmi ccord hdm cord.flac"
+                "path": "Finding Balls/lowkey insane hdmi cord hdmi cord hdmic ord hdmi ccord hdm cord.mp3"
             },
             "My fridge is pretty hot": {
-                "path": "Finding Balls/my fridge is pretty hot.flac"
+                "path": "Finding Balls/my fridge is pretty hot.mp3"
             },
             "The horse is here": {
-                "path": "Finding Balls/the horse is here.flac"
+                "path": "Finding Balls/the horse is here.mp3"
             },
             "They took my balls and my children": {
-                "path": "Finding Balls/they took my balls and my children.flac"
+                "path": "Finding Balls/they took my balls and my children.mp3"
             }
         }
     },
@@ -49,14 +49,38 @@
         "cover": "Yay Laler/cover.jpg",
         "songs": {
             "Drum Club": {
-                "path": "Yay Laler/drum club.flac"
+                "path": "Yay Laler/drum club.mp3"
             },
             "Something Better": {
-                "path": "Yay Laler/something better.flac"
+                "path": "Yay Laler/something better.mp3"
             },
             "Won't Stop": {
-                "path": "Yay Laler/wont stop.flac"
+                "path": "Yay Laler/wont stop.mp3"
             }
         }
-    }
+    },
+	"The Dating Experience": {
+		"path": "The Dating Experience",
+		"cover": "The Dating Experience/cover.png",
+		"songs": {
+			"Coffee Shop Woman": {
+				"path": "The Dating Experience/Coffee shop woman.flac"
+			},
+			"Cat Lady": {
+				"path": "The Dating Experience/Cat lady.flac"
+			},
+			"This Corner Shop Girl": {
+				"path": "The Dating Experience/This corner shop girl.flac"
+			},
+			"Music Girl": {
+				"path": "The Dating Experience/Music girl.flac"
+			},
+			"No Chance": {
+				"path": "The Dating Experience/No chance.flac"
+			},
+			"The Girl Who Knew": {
+				"path": "The Dating Experience/The girl who knew.flac"
+			}
+		}
+	}
 }
