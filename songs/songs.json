@@ -64,22 +64,22 @@
 		"cover": "The Dating Experience/cover.png",
 		"songs": {
 			"Coffee Shop Woman": {
-				"path": "The Dating Experience/Coffee shop woman.flac"
+				"path": "The Dating Experience/Coffee shop woman.mp3"
 			},
 			"Cat Lady": {
-				"path": "The Dating Experience/Cat lady.flac"
+				"path": "The Dating Experience/Cat lady.mp3"
 			},
 			"This Corner Shop Girl": {
-				"path": "The Dating Experience/This corner shop girl.flac"
+				"path": "The Dating Experience/This corner shop girl.mp3"
 			},
 			"Music Girl": {
-				"path": "The Dating Experience/Music girl.flac"
+				"path": "The Dating Experience/Music girl.mp3"
 			},
 			"No Chance": {
-				"path": "The Dating Experience/No chance.flac"
+				"path": "The Dating Experience/No chance.mp3"
 			},
 			"The Girl Who Knew": {
-				"path": "The Dating Experience/The girl who knew.flac"
+				"path": "The Dating Experience/The girl who knew.mp3"
 			}
 		}
 	}
